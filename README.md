@@ -1,6 +1,7 @@
-#Knapsack Problem - CSC2103
-
+# Knapsack Problem - CSC2103
 ## CSC2103 - Data Structures & Algorithms - Sunway University
+
+![Project Status](https://img.shields.io/badge/Project%20Status-Complete-green?style=for-the-badge&logo=github)
 
 Created By:
 Joshua Daveston Ahimaz
