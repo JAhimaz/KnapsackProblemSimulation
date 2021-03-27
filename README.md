@@ -19,8 +19,8 @@ The Algorithm can be found in Solve.cs under the method "SolveKnapsackProblem()"
 
 ## Previews
 
-![image1](https://github.com/JAhimaz/KnapsackProblemSimulation/images/1.png)
-![image2](https://github.com/JAhimaz/KnapsackProblemSimulation/images/2.png)
-![image3](https://github.com/JAhimaz/KnapsackProblemSimulation/images/3.png)
-![image4](https://github.com/JAhimaz/KnapsackProblemSimulation/images/4.png)
-![image5](https://github.com/JAhimaz/KnapsackProblemSimulation/images/5.png)
+![image1](https://github.com/JAhimaz/KnapsackProblemSimulation/blob/master/images/1.png)
+![image2](https://github.com/JAhimaz/KnapsackProblemSimulation/blob/master/images/2.png)
+![image3](https://github.com/JAhimaz/KnapsackProblemSimulation/blob/master/images/3.png)
+![image4](https://github.com/JAhimaz/KnapsackProblemSimulation/blob/master/images/4.png)
+![image5](https://github.com/JAhimaz/KnapsackProblemSimulation/blob/master/images/5.png)
