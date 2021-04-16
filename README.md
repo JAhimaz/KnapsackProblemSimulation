@@ -18,7 +18,7 @@ If required, the code can be found within the "Code" folder, but it is not runna
 
 The Algorithm can be found in Solve.cs under the method "SolveKnapsackProblem()"
 
-## Previews
+### Previews
 
 ![image1](https://github.com/JAhimaz/KnapsackProblemSimulation/blob/master/images/1.png)
 ![image2](https://github.com/JAhimaz/KnapsackProblemSimulation/blob/master/images/2.png)
